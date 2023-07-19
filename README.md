@@ -20,6 +20,6 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/wenijinew"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fwenijinew&style=for-the-badge&labelColor=%2300bfff&color=%2300bfff"></a>&nbsp;
     <a href="https://www.reddit.com/user/SubstantialCamera736"><img src="https://img.shields.io/reddit/user-karma/combined/SubstantialCamera736?style=for-the-badge&labelColor=%239370db&color=%23ffd700"></a>&nbsp;
   </div>
-  <div><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wenijinew&layout=compact&theme=radical" height="200" width="800"></a></div>
-  <div><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenijinew&layout=compact&theme=radical" height="200" width="800"></a></div>
+  <div><a href="#" onMouseHover="cursor:pointer"><img src="https://github-readme-stats.vercel.app/api?username=wenijinew&layout=compact&theme=radical" height="200" width="800"></a></div>
+  <div><a href="#" onMouseHover="cursor:pointer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenijinew&layout=compact&theme=radical" height="200" width="800"></a></div>
 </div>
