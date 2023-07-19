@@ -21,5 +21,5 @@ Here are some ideas to get you started:
     <a href="https://www.reddit.com/user/SubstantialCamera736"><img src="https://img.shields.io/reddit/user-karma/combined/SubstantialCamera736?style=for-the-badge&labelColor=%239370db&color=%23ffd700"></a>&nbsp;
   </div>
   <div><a href="#" onMouseHover="cursor:pointer"><img src="https://github-readme-stats.vercel.app/api?username=wenijinew&layout=compact&theme=radical" height="200" width="800" onMouseHover="cursor:pointer"></a></div>
-  <div><a href="#" onMouseHover="cursor:pointer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenijinew&layout=compact&theme=radical" height="200" width="800" onMouseHover="cursor:pointer"></a></div>
+  <div><a href="#" onMouseHover="cursor:pointer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenijinew&layout=donut&theme=radical" height="200" width="800" onMouseHover="cursor:pointer"></a></div>
 </div>
